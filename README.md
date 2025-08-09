@@ -29,6 +29,6 @@ Saya memiliki minat pada **Machine Learning** dan **Data Analytics**, serta peng
 ### 🚀 Proyek Unggulan
 - **[Deteksi dan Koreksi Kata Tidak Baku (Skripsi)](#)** – Web app real-time berbasis ReactJS & FastAPI dengan metode Dictionary Lookup + Damerau–Levenshtein Distance  
 - **[Copywriting Otomatis Produk Fashion](#)** – Model T5 untuk menghasilkan deskripsi produk, dilengkapi API FastAPI  
-- **[Aplikasi Mobile HydroSmart](#)** – Sistem rekomendasi tanaman hidroponik berbasis Machine Learning & integrasi API  
+- **[Aplikasi Mobile dan Website HydroSmart](#)** – Sistem rekomendasi tanaman hidroponik berbasis Machine Learning & integrasi API  
 
 ---
